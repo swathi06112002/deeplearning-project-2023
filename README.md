@@ -1,10 +1,10 @@
 # deeplearning-project-2023
 
-##Introduction
+## Introduction
 
 This endeavor aims to create a tool for visually impaired individuals, serving as an Image-to-Speech converter. Employing deep learning and natural language processing methods, the system analyzes images, produces detailed descriptions, and transforms these textual captions into audio. The primary objective is to offer a resource facilitating the comprehension of image content for visually impaired individuals, thereby fostering accessibility and independence.
 
-##Key Features:
+## Key Features:
 
 **Image-to-Caption Generation**: The system generates textual descriptions of images using a deep learning model based on the Show, Attend, and Tell paper.
 
